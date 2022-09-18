@@ -2,6 +2,11 @@
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/mixins/breakpoints";
 
+.header {
+  display: block;
+  text-align: center;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr;
